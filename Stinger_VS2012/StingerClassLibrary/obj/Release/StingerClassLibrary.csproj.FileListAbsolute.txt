@@ -1,0 +1,4 @@
+D:\GitHub_Repository\Stinger\Stinger_VS2012\StingerClassLibrary\bin\Release\StingerClassLibrary.dll
+D:\GitHub_Repository\Stinger\Stinger_VS2012\StingerClassLibrary\bin\Release\StingerClassLibrary.pdb
+D:\GitHub_Repository\Stinger\Stinger_VS2012\StingerClassLibrary\obj\Release\StingerClassLibrary.dll
+D:\GitHub_Repository\Stinger\Stinger_VS2012\StingerClassLibrary\obj\Release\StingerClassLibrary.pdb

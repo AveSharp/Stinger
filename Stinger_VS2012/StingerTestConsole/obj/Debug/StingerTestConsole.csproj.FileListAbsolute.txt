@@ -1,0 +1,5 @@
+D:\GitHub_Repository\Stinger\Stinger_VS2012\StingerTestConsole\bin\Debug\StingerTestConsole.exe.config
+D:\GitHub_Repository\Stinger\Stinger_VS2012\StingerTestConsole\bin\Debug\StingerTestConsole.exe
+D:\GitHub_Repository\Stinger\Stinger_VS2012\StingerTestConsole\bin\Debug\StingerTestConsole.pdb
+D:\GitHub_Repository\Stinger\Stinger_VS2012\StingerTestConsole\obj\Debug\StingerTestConsole.exe
+D:\GitHub_Repository\Stinger\Stinger_VS2012\StingerTestConsole\obj\Debug\StingerTestConsole.pdb
